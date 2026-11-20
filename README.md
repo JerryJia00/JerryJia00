@@ -15,8 +15,3 @@ Qirui Jin, Lingching Tung, Kenan Li, Qiyang Shi, Yushi She, **Huanzhong Jia**, H
 
 > The first benchmark for evaluating agents on sequential, dependent bug fixes within a shared codebase: chronological chains of 304 issues across 54 Python projects, mined from six SWE-bench-family datasets. Agent performance drops by up to 70% as the chain grows.
 
-My part: ran evaluation experiments, worked on data annotation and analysis, built a local SWE-bench-style repository adapter, and helped write the paper.
-
-### 🔍 Earlier research
-
-Undergraduate researcher in Prof. Bin Yu's group at UC Berkeley, working on interpretable machine learning ([imodels](https://github.com/csinva/imodels)).
